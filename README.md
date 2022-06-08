@@ -6,6 +6,9 @@ Requirements:
  - Get xampp from [link](https://www.apachefriends.org/download.html)
  - Start the xampp control panel
  - Start Apache and MySQL services
+ - Migrate to `http://localhost` on your browser
+ - Open `phpMyAdmin`
+ - Create a database called `testdb`
 
 How to Run
 - Clone or download the repository
